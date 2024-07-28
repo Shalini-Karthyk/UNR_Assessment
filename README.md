@@ -74,6 +74,7 @@ The analysis revealed subtle differences between treated and vehicle conditions 
 ## Files
 
 - `Protein_Quantification_Analysis.Rmd`: RMarkdown file containing the code and analysis.
+- `Protein_quant.pdf`: RMarkdown file containing the code and analysis.
 - `TestDataSet_protein.txt`: Example dataset used for analysis.
 
 ## Requirements
